@@ -28,4 +28,4 @@ Example of an employee that worked during the day:
 
 Example of an employee that worked overnight: 
 
-![gui3](https://user-images.githubusercontent.com/50672367/73278560-0cbcab80-41ec-11ea-8b21-83185878c717.jpg)
+![gu4](https://user-images.githubusercontent.com/50672367/73278885-8eacd480-41ec-11ea-85c5-1e1d865aaccf.jpg)
