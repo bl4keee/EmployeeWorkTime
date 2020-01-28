@@ -1,4 +1,4 @@
-# EmployeeWorkHours
+# EmployeeWorkTime
 GUI application that counts how much time did the employee spend in the workplace. 
 
 There are several restrictions that have to be met in order to let the application work smoothly and realistically. 
