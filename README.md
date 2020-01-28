@@ -18,3 +18,14 @@ This is how the App looks.
 
 ![gui](https://user-images.githubusercontent.com/50672367/73278039-47721400-41eb-11ea-97ae-cbe28fbf5aab.jpg)
 
+
+
+Example of an employee that worked during the day: 
+
+![gui2](https://user-images.githubusercontent.com/50672367/73278527-03334380-41ec-11ea-9901-e8e2e98ce195.jpg)
+
+
+
+Example of an employee that worked overnight: 
+
+![gui3](https://user-images.githubusercontent.com/50672367/73278560-0cbcab80-41ec-11ea-8b21-83185878c717.jpg)
