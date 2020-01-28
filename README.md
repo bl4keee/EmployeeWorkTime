@@ -12,7 +12,7 @@ For example:
 Programm is time-versatile and effectively counts provided values. Application copes with counting when provided working time is normal
 and employee worked during the day and also does not disappoint when entered data says that the employee worked overnight. 
 
-## Screenshot
+## Screenshots
 
 This is how the App looks.
 
